@@ -1,5 +1,5 @@
 # Contributor guidelines
 
-* Read docs
-* Run tests
-* 
+* Read docs.
+* Run tests.
+* Open pull requests.
